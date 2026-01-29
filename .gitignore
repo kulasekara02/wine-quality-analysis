@@ -1,0 +1,17 @@
+# R files
+.Rhistory
+.Rdata
+.RDataTmp
+.Ruserdata
+
+# Output files
+output/*
+!output/.gitkeep
+
+# Data (if large/sensitive)
+# data/*
+# !data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
